@@ -1,4 +1,4 @@
-adeeba = "Adeeba is Good Girl and Going to School"
+adeeba = "Adeeba is Good Girl and Going to School name is SMS Public"
 
 print(len(adeeba))
 #print(adeeba[::])
